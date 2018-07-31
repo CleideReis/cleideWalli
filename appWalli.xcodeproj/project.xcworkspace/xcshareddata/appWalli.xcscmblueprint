@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A525543A568979D07C07D46D61A1CA59FC846C35",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "31CAC2633603952D44CA706D96A441B909E2E2AC" : 9223372036854775807,
+    "A525543A568979D07C07D46D61A1CA59FC846C35" : 9223372036854775807,
+    "3136A998BC42ADD5102A757900FF98F858F42841" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F22E5271-E518-4C71-9C8E-B6F5C9EBB6FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "31CAC2633603952D44CA706D96A441B909E2E2AC" : "..\/site\/sitewalli",
+    "A525543A568979D07C07D46D61A1CA59FC846C35" : "appWalli\/",
+    "3136A998BC42ADD5102A757900FF98F858F42841" : "..\/..\/..\/heitorucb"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "appWalli",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "appWalliCode\/appWalli.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/heitorucb\/heitorucb.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3136A998BC42ADD5102A757900FF98F858F42841"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FerrazFerrara\/sitewalli.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "31CAC2633603952D44CA706D96A441B909E2E2AC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FerrazFerrara\/appWalli.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A525543A568979D07C07D46D61A1CA59FC846C35"
+    }
+  ]
+}
